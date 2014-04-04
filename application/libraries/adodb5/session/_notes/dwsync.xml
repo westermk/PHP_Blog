@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="adodb-compress-bzip2.php" server="tomcat.cit.iupui.edu/cit31300/" local="130292922200000000" remote="130292922200000000" Dst="1" />
+<file name="adodb-encrypt-md5.php" server="tomcat.cit.iupui.edu/cit31300/" local="130292922210000000" remote="130292922210000000" Dst="1" />
+<file name="adodb-encrypt-secret.php" server="tomcat.cit.iupui.edu/cit31300/" local="130292922210000000" remote="130292922210000000" Dst="1" />
+<file name="adodb-encrypt-mcrypt.php" server="tomcat.cit.iupui.edu/cit31300/" local="130292922210000000" remote="130292922210000000" Dst="1" />
+<file name="session_schema.xml" server="tomcat.cit.iupui.edu/cit31300/" local="130292922230000000" remote="130292922230000000" Dst="1" />
+<file name="adodb-session-clob2.php" server="tomcat.cit.iupui.edu/cit31300/" local="130292922220000000" remote="130292922220000000" Dst="1" />
+<file name="adodb-sessions.oracle.clob.sql" server="tomcat.cit.iupui.edu/cit31300/" local="130292922220000000" remote="130292922220000000" Dst="1" />
+<file name="adodb-compress-gzip.php" server="tomcat.cit.iupui.edu/cit31300/" local="130292922200000000" remote="130292922200000000" Dst="1" />
+<file name="session_schema2.xml" server="tomcat.cit.iupui.edu/cit31300/" local="130292922230000000" remote="130292922230000000" Dst="1" />
+<file name="adodb-sessions.mysql.sql" server="tomcat.cit.iupui.edu/cit31300/" local="130292922220000000" remote="130292922220000000" Dst="1" />
+<file name="crypt.inc.php" server="tomcat.cit.iupui.edu/cit31300/" local="130292922230000000" remote="130292922230000000" Dst="1" />
+<file name="adodb-encrypt-sha1.php" server="tomcat.cit.iupui.edu/cit31300/" local="130292922220000000" remote="130292922220000000" Dst="1" />
+<file name="adodb-session2.php" server="tomcat.cit.iupui.edu/cit31300/" local="130292922220000000" remote="130292922220000000" Dst="1" />
+<file name="adodb-sess.txt" server="tomcat.cit.iupui.edu/cit31300/" local="130292922220000000" remote="130292922220000000" Dst="1" />
+<file name="adodb-session.php" server="tomcat.cit.iupui.edu/cit31300/" local="130292922220000000" remote="130292922220000000" Dst="1" />
+<file name="adodb-session-clob.php" server="tomcat.cit.iupui.edu/cit31300/" local="130292922220000000" remote="130292922220000000" Dst="1" />
+<file name="adodb-cryptsession2.php" server="tomcat.cit.iupui.edu/cit31300/" local="130292922200000000" remote="130292922200000000" Dst="1" />
+<file name="adodb-cryptsession.php" server="tomcat.cit.iupui.edu/cit31300/" local="130292922200000000" remote="130292922200000000" Dst="1" />
+<file name="adodb-sessions.oracle.sql" server="tomcat.cit.iupui.edu/cit31300/" local="130292922220000000" remote="130292922220000000" Dst="1" />
+</dwsync>
